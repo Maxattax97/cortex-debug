@@ -12,5 +12,10 @@
 	{ "expression": "STM32L4[a-z0-9]2.*", "flags": "i", "path": "data/STMicro/STM32L4x2.svd" },
 	{ "expression": "STM32L4[a-z0-9]3.*", "flags": "i", "path": "data/STMicro/STM32L4x3.svd" },
 	{ "expression": "STM32L4[a-z0-9]5.*", "flags": "i", "path": "data/STMicro/STM32L4x5.svd" },
-	{ "expression": "STM32L4[a-z0-9]6.*", "flags": "i", "path": "data/STMicro/STM32L4x6.svd" }
+	{ "expression": "STM32L4[a-z0-9]6.*", "flags": "i", "path": "data/STMicro/STM32L4x6.svd" },
+	{ "expression": "ATSAM[a-z0-9]4C.*", "flags": "i", "path": "data/Atmel/ATSAM3X4C.svd" },
+	{ "expression": "ATSAM[a-z0-9]4E.*", "flags": "i", "path": "data/Atmel/ATSAM3X4E.svd" },
+	{ "expression": "ATSAM[a-z0-9]8C.*", "flags": "i", "path": "data/Atmel/ATSAM3X8C.svd" },
+	{ "expression": "ATSAM[a-z0-9]8E.*", "flags": "i", "path": "data/Atmel/ATSAM3X8E.svd" },
+	{ "expression": "ATSAM[a-z0-9]8H.*", "flags": "i", "path": "data/Atmel/ATSAM3X8H.svd" }
 ]
